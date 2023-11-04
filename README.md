@@ -17,7 +17,7 @@ Afbeeldingsresultaat voor vuurtorentest Lighthouse is een open-source, geautomat
 **Eleventy**
 X
 
-## Developer eXperience (DX)
+# Developer eXperience (DX)
 DX: De gekozen framework
 
 Vorige opdracht heb ik kennis kunnen maken met Svelte Hygraph. Zelf vond ik het erg lastig, maar heb er veel van geleerd. Hygraph heeft best wat voordelen. In dit stuk van het onderzoek onderzoek ik de relatie met het vorige projecten wanneer het gaan om frameworks.
@@ -33,6 +33,23 @@ In dit onderzoek ben ik gaan werken met Elevent. Een aantal voordelen aan Eleven
 **Flexibele configuratie.** Standaard vereist Eleventy geen configuratie, maar het heeft flexibele opties voor aangepaste installatie. Het is opzettelijk losgekoppeld van frameworks, pijplijnen en andere tools om uw voorkeuren te ondersteunen.
 **Aanpasbare projectstructuur.** Eleventy werkt met de bestaande mapstructuur van uw project en genereert HTML op basis van de sjablonen, inhoud en gegevens die u verstrekt.
 **Keuze uit sjablonen**. Standaard gebruikt Eleventy de sjabloontaal Liquid. Het ondersteunt echter veel sjabloontalen en maakt het mogelijk deze te mixen en combineren. Hierdoor kan een project geleidelijk in de loop van de tijd naar Eleventy migreren of adopteren.
+
+# Content Management eXperience (CMX)
+Eleventy is een statische site-generator die populair is vanwege zijn eenvoud en flexibiliteit. 
+Er verschillende redenen waarom Eleventy gemakkelijk kan zijn om te gebruiken voor CMX:
+
+**Flexibiliteit:** Eleventy laat ontwikkelaars toe om vrijwel elke soort content te gebruiken, inclusief Markdown, HTML, JavaScript, JSON, en meer. Dit geeft je de vrijheid om content op jouw eigen manier te structureren en te beheren, in tegenstelling tot sommige andere CMS-oplossingen waarbij je beperkt bent tot een specifieke contentstructuur.
+
+**Data Sources:** Eleventy biedt ingebouwde ondersteuning voor het importeren van data vanuit verschillende bronnen, zoals JSON-bestanden, JavaScript-bestanden, externe API's en zelfs databases. Hierdoor kun je externe gegevensbronnen integreren en deze eenvoudig koppelen aan je websitecontent.
+
+**Templating:** Eleventy maakt gebruik van populaire templating engines zoals Nunjucks, Liquid, en Handlebars. Dit betekent dat je krachtige templates kunt gebruiken om de weergave van je content aan te passen en te controleren hoe deze op je website wordt weergegeven.
+
+**Geen database:** In tegenstelling tot traditionele CMS-systemen, heeft Eleventy geen ingebouwde database. Dit betekent dat je geen complexe databaseconfiguraties en beheertaken hoeft uit te voeren. Al je content wordt als statische bestanden opgeslagen, wat de hosting en schaalbaarheid vereenvoudigt.
+
+**Git Workflow:** Eleventy past goed in een Git-workflow, waardoor het eenvoudig is om wijzigingen in je content en code te beheren, bij te houden en te implementeren. Dit maakt het samenwerken met andere ontwikkelaars en het beheren van versiebeheer eenvoudig.
+
+**Performantie:** Omdat Eleventy statische websites genereert, kunnen de prestaties van je website aanzienlijk worden verbeterd. Statische sites zijn snel te laden en hebben minder serverresources nodig dan dynamische CMS-systemen.
+
 ### Bronnen
 **Handige bronnen**
 https://docs.netlify.com/integrations/frameworks/eleventy/
