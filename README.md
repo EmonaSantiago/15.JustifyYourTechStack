@@ -7,9 +7,9 @@ Ik heb systematisch onderzoek gedaan over de gekozen tech-stack. Tijdens het ond
 
 ### Navigeer door Justify Your Tech Stack
 De gekozen tech-stack: Eleventy ( Netlify )
-- [User eXperience (UX)]()
-- [Developer eXperience (DX)]()
-- [Content Management eXperience (CMX)]()
+- [User eXperience (UX)](https://github.com/EmonaSantiago/15.JustifyYourTechStack/blob/main/README.md#user-experience-ux)
+- [Developer eXperience (DX)](https://github.com/EmonaSantiago/15.JustifyYourTechStack/blob/main/README.md#developer-experience-dx)
+- [Content Management eXperience (CMX)](https://github.com/EmonaSantiago/15.JustifyYourTechStack/blob/main/README.md#content-management-experience-cmx)
 
 # User eXperience (UX)
 ### Lighthousetest
