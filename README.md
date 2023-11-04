@@ -61,6 +61,7 @@ Er verschillende redenen waarom Eleventy gemakkelijk kan zijn om te gebruiken vo
 
 ### Bronnen
 **Handige bronnen**
+
 https://docs.netlify.com/integrations/frameworks/eleventy/
 
 https://www.mikestreety.co.uk/blog/add-netlify-cms-to-an-existing-11ty-site/
