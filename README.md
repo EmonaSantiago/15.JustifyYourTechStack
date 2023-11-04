@@ -5,7 +5,12 @@ Ik heb systematisch onderzoek gedaan over de gekozen tech-stack. Tijdens het ond
 - Content Management eXperience (CMX)
 <img width="494" alt="Schermafbeelding 2023-11-04 om 19 56 32" src="https://github.com/EmonaSantiago/15.JustifyYourTechStack/assets/90447045/6b174c26-4f2b-42dd-aaa6-045aed3364cd">
 
+### Navigeer door Justify Your Tech Stack
 De gekozen tech-stack: Eleventy ( Netlify )
+- [User eXperience (UX)]()
+- [Developer eXperience (DX)]()
+- [Content Management eXperience (CMX)]()
+
 # User eXperience (UX)
 ### Lighthousetest
 Afbeeldingsresultaat voor vuurtorentest Lighthouse is een open-source, geautomatiseerd hulpmiddel voor het verbeteren van de kwaliteit van webpagina's .
@@ -29,9 +34,13 @@ Eleveny is namelijk erg anders in opzet, maar wat gestructueerder. Bij Svelte al
 In dit onderzoek ben ik gaan werken met Elevent. Een aantal voordelen aan Eleventy:
 
 ### voordelen voor Eleventy-projecten
+
 **JavaScript-vriendelijk.** Eleventy is ontwikkeld als JavaScript-alternatief voor Jekyll. Het is niet afhankelijk van een JavaScript-framework of -bibliotheek aan de clientzijde, wat betekent dat het uw frontend-stack niet vooraf bepaalt.
+
 **Flexibele configuratie.** Standaard vereist Eleventy geen configuratie, maar het heeft flexibele opties voor aangepaste installatie. Het is opzettelijk losgekoppeld van frameworks, pijplijnen en andere tools om uw voorkeuren te ondersteunen.
+
 **Aanpasbare projectstructuur.** Eleventy werkt met de bestaande mapstructuur van uw project en genereert HTML op basis van de sjablonen, inhoud en gegevens die u verstrekt.
+
 **Keuze uit sjablonen**. Standaard gebruikt Eleventy de sjabloontaal Liquid. Het ondersteunt echter veel sjabloontalen en maakt het mogelijk deze te mixen en combineren. Hierdoor kan een project geleidelijk in de loop van de tijd naar Eleventy migreren of adopteren.
 
 # Content Management eXperience (CMX)
