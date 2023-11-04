@@ -59,6 +59,9 @@ Er verschillende redenen waarom Eleventy gemakkelijk kan zijn om te gebruiken vo
 
 **Performantie:** Omdat Eleventy statische websites genereert, kunnen de prestaties van je website aanzienlijk worden verbeterd. Statische sites zijn snel te laden en hebben minder serverresources nodig dan dynamische CMS-systemen.
 
+### Bespreekbaar maken
+[Presenteren](https://github.com/EmonaSantiago/15.JustifyYourTechStack/wiki/Presenteren)
+
 ### Bronnen
 **Handige bronnen**
 
@@ -69,3 +72,5 @@ https://www.mikestreety.co.uk/blog/add-netlify-cms-to-an-existing-11ty-site/
 https://11ty.rocks/
 
 https://github.com/karateschooljohnsmit/karateschooljohnsmit.nl
+
+
